@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **anuragbadlas88@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** Building scalable AI-powered applications and advanced ML projects
 - 💬 **Ask me about:** Java, Python, AI/ML, SQL, DSA, RAG, Full-Stack Development & Open Source
 - 📫 **How to reach me:** **anuragbadlas88@gmail.com**
-- 😄 **Pronouns:** Anurag
+- 😄 **Pronouns:** badlas
 - ⚡ **Fun fact:** I love turning ideas into real-world projects with AI & technology. 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anurag badlas) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Anurag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ABad23las50) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anurag Badlas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragbadlas88@gmail.com)  
